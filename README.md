@@ -3,3 +3,7 @@
 ## Antes de empezar
 
 Revisar la guia del laboratorio."Nuevo Cambio" 
+
+Colaboradores 
+ Angie Guevara Bazan
+ Yanela Pachacama Quispe
