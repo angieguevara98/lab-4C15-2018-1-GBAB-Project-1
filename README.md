@@ -2,4 +2,4 @@
 	Ejemplo de como usra el GIT desde línea de comandos.
 ## Antes de empezar
 
-Revisar la guia del laboratorio.
+Revisar la guia del laboratorio."Nuevo Cambio" 
